@@ -70,6 +70,14 @@ margin:-100 0 0 -100px;
     left:60%;
   }
 }
+@media(min-width:990px) and ( max-width:1200px){
+.header-content{
+  margin-right:250px;
+}
+.headerText{
+  font-size:4em;
+}
+}
 .headerTextSmall{
     /* text-align: center;
     position: relative;
